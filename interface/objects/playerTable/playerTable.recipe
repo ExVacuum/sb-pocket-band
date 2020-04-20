@@ -1,0 +1,5 @@
+{
+ "input" : [ { "item" : "money", "count" : 1 }],
+ "output" : { "item" : "sbPocketBand_playerTable", "count" : 1 },
+ "groups" : [ "plain" ]
+}
